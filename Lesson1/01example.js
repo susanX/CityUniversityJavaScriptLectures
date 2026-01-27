@@ -1,6 +1,6 @@
 
-let myname="Susan";
+let i="Susan";
 
-console.log(myname);
+console.log("Hello, World!"+i);
 
 // print firstname and surname 
