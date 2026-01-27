@@ -1,7 +1,6 @@
 
-let firstName="Susan";
-const surname="Gooooooooooooooood.";
-var i=firstName+" "+surname;
-console.log(i);
+let myname="Susan";
+
+console.log(myname);
 
 // print firstname and surname 
