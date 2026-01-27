@@ -1,7 +1,7 @@
-var i=1;
-let firstName="Aris";
-const surname="Markogiannakis";
 
+let firstName="Susan";
+const surname="Gooooooooooooooood.";
+var i=firstName+" "+surname;
 console.log(i);
 
 // print firstname and surname 
