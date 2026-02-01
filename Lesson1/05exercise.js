@@ -7,3 +7,4 @@ const player = {
 
 
 // Print the surname of the player
+console.log(player.surname, player.surname);
