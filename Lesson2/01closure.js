@@ -1,3 +1,4 @@
+console.log("Hello world");
 // 1.
 // //let counter = 0;
 // function add(){
